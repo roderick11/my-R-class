@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551951897184.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "520231031",
+    "id" : "87693DA5",
+    "lastKnownWriteTime" : 1551951930,
+    "last_content_update" : 1551951930357,
+    "path" : "~/GitHub/3-6-homework/homework.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "6,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
